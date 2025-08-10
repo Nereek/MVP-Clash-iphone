@@ -1,0 +1,1 @@
+console.log("Piasek App uruchomiona!");
